@@ -1,2 +1,3 @@
-# my-first-project
-this is my first project on python.
+# my-first-project-on python
+This is my first project on python.Hope it really works
+
